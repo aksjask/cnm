@@ -1,2 +1,3 @@
-# cnm
-而无法企鹅我去
+# 09-RabbitMQ
+
+RabbitMQ课件资料
